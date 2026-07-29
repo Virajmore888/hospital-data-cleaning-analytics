@@ -1,0 +1,40 @@
+======================================================================
+HEALTHCARE INSIGHTS REPORT
+======================================================================
+
+Q1. What is the overall no-show rate?
+-> 26.00% of all appointments ended up as a no-show.
+
+Q2. Which specialization has the highest no-show rate?
+-> Dermatology has the highest no-show rate at 27.94%.
+
+Q3. Is there a cost gap between paid and pending treatments?
+-> Pending treatments cost 51.25 on average lower than paid ones.
+   Paid: mean=2,703.63, median=2,479.57
+   Pending: mean=2,652.39, median=2,519.54
+
+Q4. What is the average treatment cost, and which treatment type costs the most?
+-> Overall average treatment cost is 2,738.91.
+   Unknown is the most expensive treatment type on average, at 3,507.37.
+
+Q5. Is the no-show rate different between genders?
+   Female: 24.29% no-show rate
+   Male: 26.92% no-show rate
+-> Male patients no-show more often, at 26.92%.
+
+Q6. Do older patients receive costlier treatments?
+-> The correlation between patient age and treatment cost is 0.07.
+   This means there is almost no link between the two.
+
+Q7. Which hospital branch generates the most revenue?
+-> Central Hospital generates the highest revenue at 195,862.74.
+
+Q8. Are failed payments linked to higher treatment cost?
+-> Failed payments: 2863.76 avg cost.
+   Paid/Pending payments: 2676.79 avg cost.
+   Failed payments tend to be for costlier treatments. Higher bills may be harder to collect.
+
+
+======================================================================
+Report generated from 200 appointment records.
+======================================================================
