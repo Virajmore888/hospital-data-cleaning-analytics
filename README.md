@@ -8,7 +8,7 @@
 
 <!-- Tech Stack -->
 ![Python](https://img.shields.io/badge/Python-3.10%20|%203.11%20|%203.12%20|%203.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-0.20+-CD792C?style=for-the-badge&logo=polars&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-1.41.0-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-1.21+-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4+-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.11+-4c72b0?style=for-the-badge&logo=python&logoColor=white)
